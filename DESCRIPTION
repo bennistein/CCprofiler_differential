@@ -1,4 +1,4 @@
-Package: CCprofiler_differential_branch
+Package: CCprofilerDiff
 Type: Package
 Title: Complex feature detection using SEC protein chromatograms.
 Version: 0.99.1
